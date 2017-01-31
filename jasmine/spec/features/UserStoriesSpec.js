@@ -1,8 +1,8 @@
 describe("User Stories", function() {
   beforeEach(function() {
     // var weatherReporter = new WeatherReporter();
-    var plane = new Plane();
-    var airport = new Airport();
+    plane = new Plane();
+    airport = new Airport();
   });
 
   // As an air traffic controller
